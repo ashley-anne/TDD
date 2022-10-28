@@ -1,0 +1,78 @@
+[
+  {
+    "id": 9,
+    "title": "One more time, ANOTHER Video Game",
+    "studioId": 55,
+    "mainCharacterId": 55555
+  },
+  {
+    "id": 11,
+    "title": "WE THE PEOPLE of the United States of America ...",
+    "studioId": 55,
+    "mainCharacterId": 55
+  },
+  {
+    "id": 13,
+    "title": "In order to form a more perfect union ...",
+    "studioId": 55,
+    "mainCharacterId": 5555
+  },
+  {
+    "id": 23,
+    "title": "Another Glorious Video Game",
+    "studioId": 222,
+    "mainCharacterId": 55
+  },
+  {
+    "id": 30,
+    "title": "WE THE PEOPLE of the United States of America ...",
+    "studioId": 55,
+    "mainCharacterId": 55
+  },
+  {
+    "id": 42,
+    "title": "Somewhere in Time",
+    "studioId": 11,
+    "mainCharacterId": 55
+  },
+  {
+    "id": 44,
+    "title": "Four Score and Seven Years Ago ...",
+    "studioId": 55,
+    "mainCharacterId": 55
+  },
+  {
+    "id": 48,
+    "title": "Four Score and Seven Years Ago ...",
+    "studioId": 55,
+    "mainCharacterId": 55
+  },
+  {
+    "id": 49,
+    "title": "Four Score and Seven Years Ago ...",
+    "studioId": 55,
+    "mainCharacterId": 55
+  }
+]
+StatusCode: 201, ReasonPhrase: 'Created', Version: 1.1, Content: System.Net.Http.HttpConnectionResponseContent, Headers:
+{
+  Date: Tue, 25 Oct 2022 21:29:11 GMT
+  Server: Kestrel
+  Location: https://localhost:7256/api/VideoGames/50
+  Content-Length: 89
+  Content-Type: application/json; charset=utf-8
+}
+StatusCode: 204, ReasonPhrase: 'No Content', Version: 1.1, Content: System.Net.Http.HttpConnectionResponseContent, Headers:
+{
+  Date: Tue, 25 Oct 2022 21:29:11 GMT
+  Server: Kestrel
+}
+StatusCode: 204, ReasonPhrase: 'No Content', Version: 1.1, Content: System.Net.Http.HttpConnectionResponseContent, Headers:
+{
+  Date: Tue, 25 Oct 2022 21:29:11 GMT
+  Server: Kestrel
+}
+
+C:\Users\jimk0\source\repos\Test_Driven_Development\WebAPIClient\bin\Debug\net6.0\WebAPIClient.exe (process 38468) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
